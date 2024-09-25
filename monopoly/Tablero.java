@@ -38,7 +38,7 @@ public class Tablero {
         arrayCasillasNorte.add(new Casilla("serv2", "servicio",28, 0, banca));
         arrayCasillasNorte.add(new Casilla("solar17", "solar",29, 0, banca));
     }
-    //a
+
     //Método para insertar las casillas del lado sur.
     private void insertarLadoSur() {
         ArrayList<Casilla> arrayCasillasSur = new ArrayList<Casilla>();
